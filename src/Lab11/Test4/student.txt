@@ -1,0 +1,4 @@
+hoidanit,8.5
+Nam,6.0
+An,9.2
+Eric,7.5

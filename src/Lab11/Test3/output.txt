@@ -1,0 +1,2 @@
+Hello, java.nio.file.Files!
+This is write() example.
